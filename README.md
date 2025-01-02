@@ -24,8 +24,10 @@ This project implements a Multilayer Perceptron (MLP) neural network to classify
 
 ## How to Run
 1. Clone the repository:
-- git clone https://github.com/Mounika3239/NNimage_classification.git
-- cd NNimage_classification
+```bash
+git clone https://github.com/Mounika3239/NNimage_classification.git
+cd NNimage_classification
+```
 
 2. Install dependencies using:
 ```bash
