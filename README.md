@@ -1,4 +1,4 @@
-### Neural Network Implementation for Image Classification
+# Neural Network Implementation for Image Classification
 
 ### Overview
 This project implements a Multilayer Perceptron (MLP) neural network to classify images from the MNIST Handwritten Digits and CelebA Face Dataset. The repository includes hyperparameter tuning, performance evaluation, and comparisons with Deep Neural Networks (DNN) and Convolutional Neural Networks (CNN).
