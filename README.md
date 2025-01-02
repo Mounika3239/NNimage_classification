@@ -17,27 +17,30 @@ This project implements a Multilayer Perceptron (MLP) neural network to classify
 - CelebA Dataset: MLP vs. DNN vs. CNN.
 
 ## Tools Used:
-Python 3
-NumPy
-SciPy
-TensorFlow (for DNN and CNN comparisons).
+- Python 3
+- NumPy
+- SciPy
+- TensorFlow (for DNN and CNN comparisons).
 
 ## How to Run
 1. Clone the repository:
 - git clone https://github.com/Mounika3239/NNimage_classification.git
 - cd NNimage_classification
 
-2. Install dependencies:
-- pip install numpy scipy tensorflow
+2. Install dependencies using:
+```bash
+pip install numpy scipy tensorflow
+```
 
 3. Run the scripts:
 *For MNIST:*
-- python nnScript.py
+```bash
+python nnScript.py
+```
 *For CelebA:*
-- python facennScript.py
-  
+```bash
+python facennScript.py
+```
+
 4. Review the results:
 - Optimal hyperparameters are stored in params.pickle
-
-
-
